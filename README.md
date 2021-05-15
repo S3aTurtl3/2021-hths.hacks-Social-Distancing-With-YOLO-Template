@@ -1,4 +1,4 @@
-# 2021-hths.hacks-Social-Distancing-With-YOLO-Template
+# Template for Social Distancing Detection with Yolo
 This template contains the necessary files to follow along with the YOLO Social Distancing Detector tutorial from [Pyimagesearch](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/).
 
 Prerequisites: 
